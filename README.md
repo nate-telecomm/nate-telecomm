@@ -1,5 +1,6 @@
-# hello, im nate!
-- I program in Go now and am learning it and x86_64 Assembly in my spare time
-- I have been using Linux for 5 years (Arch specifically)
-- My favourite ANSI escape code is `\033[?1049<h/l>`
-- I'm Australian 🇦🇺
+just some nerdy Australian who uses Linux.
+# Stuff about me:
+- I've used Linux for 5 years now
+- I program in Go but used to program in Python
+- My current project is [dataBlobs DB](https://github.com/nate-telecomm/dataBlobsDB), a hybrid Database and Directory server
+  (the link will probably return 404 because it is private)
